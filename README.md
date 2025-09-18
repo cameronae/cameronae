@@ -1,6 +1,6 @@
 ## Hi, I'm Cameron 👋
 
-- 🧠 I'm currently a first year computer engineering student at Penn State University <br>
+- 🧠 I'm currently a second year computer engineering student at Penn State University <br>
 - 🌱 I’m currently learning object oriented programming with c++ <br>
 - 💡 I'm interested in software devlopment and embedded software <br>
 
